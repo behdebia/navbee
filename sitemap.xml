@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- PENDENTE: preenchido por tools/set-domain.py quando o domínio definitivo for confirmado.
+     Páginas válidas hoje: apenas a página inicial ("/"). 404.html não entra no sitemap. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+</urlset>

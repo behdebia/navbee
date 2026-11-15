@@ -1,0 +1,16 @@
+{
+  "name": "navbee-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NAVBEE landing page with a backend endpoint to send contact leads to Gmail.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "nodemailer": "^6.9.16"
+  }
+}

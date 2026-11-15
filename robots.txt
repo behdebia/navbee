@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# PENDENTE: a linha "Sitemap: https://<dominio-definitivo>/sitemap.xml" é adicionada por tools/set-domain.py
+# quando o domínio definitivo for confirmado.
